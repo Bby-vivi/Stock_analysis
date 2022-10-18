@@ -22,3 +22,7 @@ In addition, to seeing the different between 2017 and 2018 return value. We also
 
 
 ### Summary
+There’re are many advantages with the refactoring code. The main noticeable points are the efficiency and accuracy. By adding those factors made this a powerful code. An easier and user friendly worksheet for all to use. 
+
+The one disadvantage I could say, is the time spent on the refactoring the code. Re-working the coding and perfecting takes a large amount of time. However, perfection takes time and practice to accomplish those goals.  
+
