@@ -13,6 +13,12 @@ The original coding performed with no issues, although, the speed and efficiency
 
 ![refactored code](https://user-images.githubusercontent.com/114452770/196295465-a607426d-0c3b-4fb3-a90a-d433eef577d8.PNG)
 
+As you can tell from the screenshots below. In the year 2017 we can see it was more successful than the year 2018. The return 2017 within almost all Tickers had a positive value. Well, except for one.
+
+In addition, to seeing the different between 2017 and 2018 return value. We also, have the ability to review the speed factor between converting between the years. Before the refactoring coding process, the code would take minutes to change, now only seconds. A huge difference!
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/114452770/196294047-2ad65b86-cd63-4a7b-be20-03e69e6d9b73.PNG)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/114452770/196294054-8bbbe39a-a2ef-4562-b4eb-e24e2c917b81.PNG)
+
+
 ### Summary
